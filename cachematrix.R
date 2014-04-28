@@ -1,7 +1,15 @@
 ## Put comments here that give an overall description of what your
 ## functions do
 
-# just adding a comment to see if I got the git stuff right!
+# I have a really hard time explaining what is happening, but here 
+# is what I think is going on:
+
+# makeCacheMatrix is going to supply functions for putting a 
+# matrix and possibly its inverse into a cache for easier/faster
+# access. 
+
+# CacheSolve - gets the inverse out of the cache if it's there, 
+# otherwise will calculate the inverse and put it into the cache.
 
 ## Write a short comment describing this function
 # this is bascally the same as the makeVector given
